@@ -1,6 +1,6 @@
 # Kotlin JVM Abi jar plugin bug repro
 
-## Step
+## Steps
 
  - Be on linux
  - Clone the repository
